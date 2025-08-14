@@ -23,4 +23,4 @@ function  resultReport( marks ) {
     return result;
 }
 
-console.log(resultReport([98, 87, 67, 91, 92, 33, 87]))
+console.log(resultReport(100))
